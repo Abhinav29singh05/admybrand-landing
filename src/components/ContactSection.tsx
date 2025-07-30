@@ -7,19 +7,19 @@ const ContactSection: React.FC = () => {
     {
       icon: FaMapMarkerAlt,
       title: "Office Location",
-      content: "123 Innovation Drive, San Francisco, CA 94105",
+      content: "Gomti Nagar, Lucknow ,India",
       color: "text-blue-600"
     },
     {
       icon: FaPhone,
       title: "Phone Number",
-      content: "+1 (555) 123-4567",
+      content: "+91 9519884288",
       color: "text-green-600"
     },
     {
       icon: FaEnvelope,
       title: "Email Address",
-      content: "hello@admybrand.com",
+      content: "abhinav09singh08@gmail.com",
       color: "text-purple-600"
     },
     {

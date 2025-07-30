@@ -33,10 +33,10 @@ const Footer: React.FC = () => {
 
   const socialLinks = [
     { icon: FaTwitter, href: "#", label: "Twitter" },
-    { icon: FaLinkedin, href: "#", label: "LinkedIn" },
+    { icon: FaLinkedin, href: "https://linkedin.com/in/abhinav-singh29", label: "LinkedIn" },
     { icon: FaFacebook, href: "#", label: "Facebook" },
     { icon: FaInstagram, href: "#", label: "Instagram" },
-    { icon: FaGithub, href: "#", label: "GitHub" },
+    { icon: FaGithub, href: "https://github.com/Abhinav29singh05", label: "GitHub" },
   ];
 
   return (
@@ -64,15 +64,15 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <FaEnvelope className="text-blue-400" />
-                <span className="text-sm text-gray-300">hello@admybrand.com</span>
+                <span className="text-sm text-gray-300">abhinav09singh08@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <FaPhone className="text-blue-400" />
-                <span className="text-sm text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-sm text-gray-300">+91 9519884288</span>
               </div>
               <div className="flex items-center space-x-3">
                 <FaMapMarkerAlt className="text-blue-400" />
-                <span className="text-sm text-gray-300">San Francisco, CA</span>
+                <span className="text-sm text-gray-300">Lucknow, INDIA</span>
               </div>
             </div>
           </div>
